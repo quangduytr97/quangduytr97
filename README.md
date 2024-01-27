@@ -8,10 +8,7 @@
 
 <p align="center"> 
   <samp>
-    <br>
     「 I am a full stack web application developer from <b>Da Nang City, Viet Nam</b> 」
-    <br>
-    <br>
   </samp>
 </p>
 
@@ -23,7 +20,6 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="fb"  />
   </a> 
 </p>
-<br />
 
 <!-- About Section -->
  # About me
@@ -36,8 +32,6 @@
  ⚽ &emsp; Like watching and playing football
 
 </p>
-
-<br/>
 
 # Already use
 ### BE
